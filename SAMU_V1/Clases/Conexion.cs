@@ -13,7 +13,7 @@ namespace SAMU_V1.Clases
         static SqlConnection conexion = new SqlConnection();
         public static void abrirConexion()
         {
-            conexion.ConnectionString=@"Data Source=VIVI-PC2\SQLSERVER;Initial Catalog=SAMU;User ID=sa;Password=1q2w3e4r";
+            conexion.ConnectionString = @"Data Source=localhost;Initial Catalog=SAMU;User ID=sa;Password=1q2w3e4r";
             conexion.Open();
         }
         public static void cerrarConexion()

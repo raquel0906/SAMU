@@ -60,6 +60,12 @@
     <Compile Include="Formularios\TipoDocumento.Designer.cs">
       <DependentUpon>TipoDocumento.cs</DependentUpon>
     </Compile>
+    <Compile Include="Formularios\TipoSolicitud.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\TipoSolicitud.Designer.cs">
+      <DependentUpon>TipoSolicitud.cs</DependentUpon>
+    </Compile>
     <Compile Include="Menu.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -83,6 +89,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Formularios\TipoDocumento.resx">
       <DependentUpon>TipoDocumento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\TipoSolicitud.resx">
+      <DependentUpon>TipoSolicitud.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Menu.resx">
       <DependentUpon>Menu.cs</DependentUpon>

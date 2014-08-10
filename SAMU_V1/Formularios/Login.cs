@@ -48,9 +48,9 @@ namespace SAMU_V1
         private void frmLogin_Load(object sender, EventArgs e)
         {
             // TODO: esta línea de código carga datos en la tabla 'sAMUDataSet.s_tipo_documento' Puede moverla o quitarla según sea necesario.
-            this.s_tipo_documentoTableAdapter.Fill(this.sAMUDataSet.s_tipo_documento);
-            // TODO: esta línea de código carga datos en la tabla 'sAMUDataSet.usuarios' Puede moverla o quitarla según sea necesario.
-            this.usuariosTableAdapter.Fill(this.sAMUDataSet.usuarios);
+            //this.s_tipo_documentoTableAdapter.Fill(this.sAMUDataSet.s_tipo_documento);
+            //// TODO: esta línea de código carga datos en la tabla 'sAMUDataSet.usuarios' Puede moverla o quitarla según sea necesario.
+           // this.usuariosTableAdapter.Fill(this.sAMUDataSet.usuarios);
 
         }
 

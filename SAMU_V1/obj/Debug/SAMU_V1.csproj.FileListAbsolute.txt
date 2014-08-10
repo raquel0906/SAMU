@@ -22,3 +22,12 @@ C:\Users\Vivi\Documents\Visual Studio 2012\Projects\SAMU_V1\SAMU_V1\obj\Debug\SA
 E:\INTESA\SAMU_V1\SAMU_V1\bin\Debug\SAMU_V1.exe.config
 E:\INTESA\SAMU_V1\SAMU_V1\obj\Debug\SAMU_V1.exe
 E:\INTESA\SAMU_V1\SAMU_V1\obj\Debug\SAMU_V1.pdb
+E:\INTESA\SAMU_V1\SAMU_V1\bin\Debug\SAMU_V1.exe
+E:\INTESA\SAMU_V1\SAMU_V1\bin\Debug\SAMU_V1.pdb
+E:\INTESA\SAMU_V1\SAMU_V1\obj\Debug\SAMU_V1.csprojResolveAssemblyReference.cache
+E:\INTESA\SAMU_V1\SAMU_V1\obj\Debug\SAMU_V1.frmLogin.resources
+E:\INTESA\SAMU_V1\SAMU_V1\obj\Debug\SAMU_V1.Formularios.frmTipoDocumento.resources
+E:\INTESA\SAMU_V1\SAMU_V1\obj\Debug\SAMU_V1.Menu.resources
+E:\INTESA\SAMU_V1\SAMU_V1\obj\Debug\SAMU_V1.Properties.Resources.resources
+E:\INTESA\SAMU_V1\SAMU_V1\obj\Debug\SAMU_V1.csproj.GenerateResource.Cache
+E:\INTESA\SAMU_V1\SAMU_V1\obj\Debug\SAMU_V1.Formularios.TipoSolicitud.resources
