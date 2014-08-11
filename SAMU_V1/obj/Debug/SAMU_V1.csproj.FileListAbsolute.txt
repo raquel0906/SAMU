@@ -26,8 +26,18 @@ E:\INTESA\SAMU_V1\SAMU_V1\bin\Debug\SAMU_V1.exe
 E:\INTESA\SAMU_V1\SAMU_V1\bin\Debug\SAMU_V1.pdb
 E:\INTESA\SAMU_V1\SAMU_V1\obj\Debug\SAMU_V1.csprojResolveAssemblyReference.cache
 E:\INTESA\SAMU_V1\SAMU_V1\obj\Debug\SAMU_V1.frmLogin.resources
-E:\INTESA\SAMU_V1\SAMU_V1\obj\Debug\SAMU_V1.Formularios.frmTipoDocumento.resources
 E:\INTESA\SAMU_V1\SAMU_V1\obj\Debug\SAMU_V1.Menu.resources
 E:\INTESA\SAMU_V1\SAMU_V1\obj\Debug\SAMU_V1.Properties.Resources.resources
 E:\INTESA\SAMU_V1\SAMU_V1\obj\Debug\SAMU_V1.csproj.GenerateResource.Cache
-E:\INTESA\SAMU_V1\SAMU_V1\obj\Debug\SAMU_V1.Formularios.TipoSolicitud.resources
+E:\INTESA\SAMU_V1\SAMU_V1\obj\Debug\SAMU_V1.Formularios.frmRol.resources
+E:\FP-UNA\SAMU PROYECTO 2\SAMU_V1\SAMU_V1\bin\Debug\SAMU_V1.exe.config
+E:\FP-UNA\SAMU PROYECTO 2\SAMU_V1\SAMU_V1\obj\Debug\SAMU_V1.exe
+E:\FP-UNA\SAMU PROYECTO 2\SAMU_V1\SAMU_V1\obj\Debug\SAMU_V1.pdb
+E:\FP-UNA\SAMU PROYECTO 2\SAMU_V1\SAMU_V1\bin\Debug\SAMU_V1.exe
+E:\FP-UNA\SAMU PROYECTO 2\SAMU_V1\SAMU_V1\bin\Debug\SAMU_V1.pdb
+E:\FP-UNA\SAMU PROYECTO 2\SAMU_V1\SAMU_V1\obj\Debug\SAMU_V1.csprojResolveAssemblyReference.cache
+E:\FP-UNA\SAMU PROYECTO 2\SAMU_V1\SAMU_V1\obj\Debug\SAMU_V1.frmLogin.resources
+E:\FP-UNA\SAMU PROYECTO 2\SAMU_V1\SAMU_V1\obj\Debug\SAMU_V1.Formularios.frmRol.resources
+E:\FP-UNA\SAMU PROYECTO 2\SAMU_V1\SAMU_V1\obj\Debug\SAMU_V1.Menu.resources
+E:\FP-UNA\SAMU PROYECTO 2\SAMU_V1\SAMU_V1\obj\Debug\SAMU_V1.Properties.Resources.resources
+E:\FP-UNA\SAMU PROYECTO 2\SAMU_V1\SAMU_V1\obj\Debug\SAMU_V1.csproj.GenerateResource.Cache

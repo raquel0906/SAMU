@@ -52,8 +52,23 @@ namespace SAMU_V1
 
         private void usuariosToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            frmTipoDocumento tipoDoc = new frmTipoDocumento();
-            tipoDoc.ShowDialog();
+
+        }
+
+        private void solicitudDeToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void contratosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void rolesToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form frmRol = new frmRol();
+            frmRol.Show();
         }
     }
 }

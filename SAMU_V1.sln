@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Express 2012 for Windows Desktop
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAMU_V1", "SAMU_V1\SAMU_V1.csproj", "{A13DE0E4-47BD-43FB-9F2F-C95DB8215D14}"
 EndProject
 Global

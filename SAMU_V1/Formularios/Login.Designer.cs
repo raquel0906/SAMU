@@ -37,16 +37,14 @@
             this.btnCancelar = new System.Windows.Forms.Button();
             this.BindingSource1 = new System.Windows.Forms.BindingSource(this.components);
             this.sAMUDataSet = new SAMU_V1.SAMUDataSet();
-            this.usuariosTableAdapter = new SAMU_V1.SAMUDataSetTableAdapters.usuariosTableAdapter();
-            this.s_tipo_documentoTableAdapter = new SAMU_V1.SAMUDataSetTableAdapters.s_tipo_documentoTableAdapter();
-            ((System.ComponentModel.ISupportInitialize)(this.BindingSource1)).BeginInit();
+           ((System.ComponentModel.ISupportInitialize)(this.BindingSource1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.sAMUDataSet)).BeginInit();
             this.SuspendLayout();
             // 
             // lblContrasenha
             // 
             this.lblContrasenha.AutoSize = true;
-            this.lblContrasenha.Location = new System.Drawing.Point(87, 98);
+            this.lblContrasenha.Location = new System.Drawing.Point(135, 99);
             this.lblContrasenha.Name = "lblContrasenha";
             this.lblContrasenha.Size = new System.Drawing.Size(64, 13);
             this.lblContrasenha.TabIndex = 1;
@@ -54,7 +52,7 @@
             // 
             // txtContrasenha
             // 
-            this.txtContrasenha.Location = new System.Drawing.Point(186, 91);
+            this.txtContrasenha.Location = new System.Drawing.Point(234, 92);
             this.txtContrasenha.Name = "txtContrasenha";
             this.txtContrasenha.PasswordChar = '*';
             this.txtContrasenha.Size = new System.Drawing.Size(95, 20);
@@ -63,7 +61,7 @@
             // lblUsuario
             // 
             this.lblUsuario.AutoSize = true;
-            this.lblUsuario.Location = new System.Drawing.Point(86, 59);
+            this.lblUsuario.Location = new System.Drawing.Point(134, 60);
             this.lblUsuario.Name = "lblUsuario";
             this.lblUsuario.Size = new System.Drawing.Size(46, 13);
             this.lblUsuario.TabIndex = 3;
@@ -71,14 +69,14 @@
             // 
             // txtUsuario
             // 
-            this.txtUsuario.Location = new System.Drawing.Point(186, 52);
+            this.txtUsuario.Location = new System.Drawing.Point(234, 53);
             this.txtUsuario.Name = "txtUsuario";
             this.txtUsuario.Size = new System.Drawing.Size(94, 20);
             this.txtUsuario.TabIndex = 1;
             // 
             // btnIngresar
             // 
-            this.btnIngresar.Location = new System.Drawing.Point(89, 145);
+            this.btnIngresar.Location = new System.Drawing.Point(137, 146);
             this.btnIngresar.Name = "btnIngresar";
             this.btnIngresar.Size = new System.Drawing.Size(88, 27);
             this.btnIngresar.TabIndex = 4;
@@ -89,7 +87,7 @@
             // 
             // btnCancelar
             // 
-            this.btnCancelar.Location = new System.Drawing.Point(211, 144);
+            this.btnCancelar.Location = new System.Drawing.Point(259, 145);
             this.btnCancelar.Name = "btnCancelar";
             this.btnCancelar.Size = new System.Drawing.Size(98, 27);
             this.btnCancelar.TabIndex = 5;
@@ -107,19 +105,11 @@
             this.sAMUDataSet.DataSetName = "SAMUDataSet";
             this.sAMUDataSet.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
             // 
-            // usuariosTableAdapter
-            // 
-            this.usuariosTableAdapter.ClearBeforeFill = true;
-            // 
-            // s_tipo_documentoTableAdapter
-            // 
-            this.s_tipo_documentoTableAdapter.ClearBeforeFill = true;
-            // 
             // frmLogin
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(384, 261);
+            this.ClientSize = new System.Drawing.Size(504, 261);
             this.Controls.Add(this.btnCancelar);
             this.Controls.Add(this.btnIngresar);
             this.Controls.Add(this.txtUsuario);
@@ -128,7 +118,7 @@
             this.Controls.Add(this.lblContrasenha);
             this.Name = "frmLogin";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "LOGIN";
+            this.Text = "SISTEMA ADMINISTRATIVO DE MANOS UNIDAS";
             this.Load += new System.EventHandler(this.frmLogin_Load);
             ((System.ComponentModel.ISupportInitialize)(this.BindingSource1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.sAMUDataSet)).EndInit();
@@ -148,8 +138,7 @@
         private System.Windows.Forms.Button btnCancelar;
         private SAMUDataSet sAMUDataSet;
         private System.Windows.Forms.BindingSource BindingSource1;
-        private SAMUDataSetTableAdapters.usuariosTableAdapter usuariosTableAdapter;
-        private SAMUDataSetTableAdapters.s_tipo_documentoTableAdapter s_tipo_documentoTableAdapter;
+       
     }
 }
 
